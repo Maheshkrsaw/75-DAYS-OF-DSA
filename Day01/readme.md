@@ -1,4 +1,3 @@
-```markdown
 # 📘 Day 01 — Problem Solving & Basics in C++
 
 ---
@@ -18,19 +17,17 @@ A **flowchart** is a diagram showing the algorithm’s steps using symbols.
 
 📝 Example (Find min of two numbers):
 ```
-
-\[Start]
-↓
-Input a, b
-↓
+[Start] 
+   ↓
+Input a, b 
+   ↓
 Is a < b?
-↓      ↓
+  ↓      ↓
 Yes      No
 ↓          ↓
 a is min   b is min
-↓
-\[End]
-
+   ↓
+ [End]
 ```
 
 ---
@@ -40,17 +37,15 @@ Pseudocode is writing logic in plain English before coding.
 
 📝 Example (Sum of numbers from 0 to n):
 ```
-
 START
 Input n
 sum ← 0
 FOR i ← 0 TO n
-sum ← sum + i
+    sum ← sum + i
 END FOR
 Output sum
 END
-
-````
+```
 
 ---
 
@@ -89,12 +84,10 @@ int main() {
     cout << "Hello, World!";
     return 0;
 }
-````
+```
 
 ---
 
 ✨ Happy Coding & Keep Practicing! 🚀
 
-```
 
----
